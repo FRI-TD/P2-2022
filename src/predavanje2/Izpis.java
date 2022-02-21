@@ -1,7 +1,7 @@
 package predavanje2;
 
 /**
- *
+ * Izpis cenika srečk.
  * @author tomaz
  */
 public class Izpis {
@@ -9,7 +9,7 @@ public class Izpis {
     int x = 13;
     int y = 7;
     
-    // za 2formatiran" izpis uporabim metodo printf
+    // za "formatiran" izpis uporabim metodo printf
     System.out.printf("%d + %d = %d\n", x, y, x+y);
   }
 }
