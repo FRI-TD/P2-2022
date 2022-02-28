@@ -1,4 +1,4 @@
-package predavanje1;
+package predavanje01;
 
 public class Obresti {
 

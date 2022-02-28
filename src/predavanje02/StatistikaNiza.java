@@ -1,4 +1,4 @@
-package predavanje2;
+package predavanje02;
 
 /**
  *

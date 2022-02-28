@@ -1,4 +1,4 @@
-package predavanje2;
+package predavanje02;
 
 /**
  * Program posteje, koliko besed iz tabele "besede" 
