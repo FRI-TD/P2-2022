@@ -12,7 +12,12 @@ public class Obresti {
 
     double gN; // glavnica po n letih
 
-    // za izracun potence uporabim metodo Math.pow
+    /* 
+       Za izracun potence uporabim metodo pow().
+       Ker je metoda definirana v razredu Math,
+       je treba pri klicu podati tudi ime razreda,
+       takole: rezultat = Math.pow(x, n).
+    */ 
     gN = glavnica * Math.pow(1 + obrestnaMera / 100, n);
 
     // pri izpisu lahko "sestevam" niz in stevilo
