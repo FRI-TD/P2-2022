@@ -1,5 +1,7 @@
 import java.awt.*;
 
+// Za risanje potrebujemo knjiznico stdlib.jar
+
 public class Risanje {
 
     static void r1() {
