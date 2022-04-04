@@ -1,9 +1,7 @@
-Koda 6. predavanj se nahaja 
-- v mapi si.fri.kodiranje.* 
-- v razredu Risanje.java
+Koda 7. predavanj se nahaja v razredu Risanje.java
 
 Opomba: razred Risanje se nahaja v privzetem paketu (torej NI v paketu, 
 nahaja se kar v korenskem direktoriju projekta), saj sicer knjižnica stdlib.jar 
-ne dela. Če želite razred zapisati v kak drug paket (recimo v predavanja06), 
+ne dela. Če želite razred zapisati v kak drug paket (recimo v predavanja07), 
 morate namesto stdlib.jar uporabiti knjižnico algs4.jar (obe knjižnici sta 
 dostopni na eUčilnici). 
