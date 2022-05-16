@@ -1,0 +1,212 @@
+No.;Athlete;Nation;Sport;Years;Games;Gender;Gold;Silver;Bronze;Total
+1;Michael Phelps;USA;Swimming;2004–2016;Summer;M;23;3;2;28
+2;Larisa Latynina;USSR;Gymnastics;1956–1964;Summer;F;9;5;4;18
+6;Marit Bjørgen;NOR;Cross-country skiing;2002–2018;Winter;F;8;4;3;15
+15;Nikolai Andrianov;USSR;Gymnastics;1972–1980;Summer;M;7;5;3;15
+16;Boris Shakhlin;USSR;Gymnastics;1956–1964;Summer;M;7;4;2;13
+41;Takashi Ono;JPN;Gymnastics;1952–1964;Summer;M;5;4;4;13
+20;Edoardo Mangiarotti;ITA;Fencing;1936–1960;Summer;M;6;5;2;13
+7;Ole Einar Bjørndalen;NOR;Biathlon;1998–2014;Winter;M;8;4;1;13
+87;Dara Torres;USA;Swimming;1984–2008;Summer;F;4;4;4;12
+10;Jenny Thompson;USA;Swimming;1992–2004;Summer;F;8;3;1;12
+3;Paavo Nurmi;FIN;Athletics;1920–1928;Summer;M;9;3;0;12
+97;Alexei Nemov;RUS;Gymnastics;1996–2000;Summer;M;4;2;6;12
+22;Ryan Lochte;USA;Swimming;2004–2016;Summer;M;6;3;3;12
+10;Sawao Kato;JPN;Gymnastics;1968–1976;Summer;M;8;3;1;12
+8;Birgit Fischer;NEM;Canoeing;1980–2004;Summer;F;8;4;0;12
+8;Bjørn Dæhlie;NOR;Cross-country skiing;1992–1998;Winter;M;8;4;0;12
+40;Ireen Wüst;NLD;Speed skating;2006–2018;Winter;F;5;5;1;11
+4;Mark Spitz;USA;Swimming;1968–1972;Summer;M;9;1;1;11
+42;Carl Osburn;USA;Shooting;1912–1924;Summer;M;5;4;2;11
+18;Viktor Chukarin;USSR;Gymnastics;1952–1956;Summer;M;7;3;1;11
+17;Věra Čáslavská;CZR;Gymnastics;1960–1968;Summer;F;7;4;0;11
+12;Matt Biondi;USA;Swimming;1984–1992;Summer;M;8;2;1;11
+21;Isabell Werth;NEM;Equestrian;1992–2016;Summer;F;6;4;0;10
+85;Raisa Smetanina;USSR;Cross-country skiing;1976–1992;Winter;F;4;5;1;10
+31;Vitaly Scherbo;BLR;Gymnastics;1992–1996;Summer;M;6;0;4;10
+26;Akinori Nakayama;JPN;Gymnastics;1968–1972;Summer;M;6;2;2;10
+5;Carl Lewis;USA;Athletics;1984–1996;Summer;M;9;1;0;10
+43;Ágnes Keleti;HUN;Gymnastics;1952–1956;Summer;F;5;3;2;10
+43;Gary Hall, Jr.;USA;Swimming;1996–2004;Summer;M;5;3;2;10
+19;Aladár Gerevich;HUN;Fencing;1932–1960;Summer;M;7;1;2;10
+48;Polina Astakhova;USSR;Gymnastics;1956–1964;Summer;F;5;2;3;10
+23;Lyubov Yegorova;RUS;Cross-country skiing;1992–1994;Winter;F;6;3;0;9
+27;Valentina Vezzali;ITA;Fencing;1996–2012;Summer;F;6;1;2;9
+23;Hubert Van Innis;BLG;Archery;1900–1920;Summer;M;6;3;0;9
+54;Mitsuo Tsukahara;JPN;Gymnastics;1968–1976;Summer;M;5;1;3;9
+90;Ludmilla Tourischeva;USSR;Gymnastics;1968–1976;Summer;F;4;3;2;9
+45;Ian Thorpe;AUS;Swimming;2000–2004;Summer;M;5;3;1;9
+86;Alexander Popov;RUS;Swimming;1992–2000;Summer;M;4;5;0;9
+49;Claudia Pechstein;NEM;Speed skating;1992–2006;Winter;F;5;2;2;9
+98;Sven Kramer;NLD;Speed skating;2006–2018;Winter;M;4;2;3;9
+90;Sixten Jernberg;SWE;Cross-country skiing;1956–1964;Winter;M;4;3;2;9
+23;Allyson Felix;USA;Athletics;2004–2016;Summer;F;6;3;0;9
+45;Nadia Comăneci;ROU;Gymnastics;1976–1980;Summer;F;5;3;1;9
+55;Bradley Wiggins;GBR;Cycling;2000–2016;Summer;M;5;1;2;8
+117;Giovanna Trillini;ITA;Fencing;1992–2008;Summer;F;4;1;3;8
+92;Emil Hegle Svendsen;NOR;Biathlon;2010–2018;Winter;M;4;3;1;8
+99;Allison Schmitt;USA;Swimming;2008–2016;Summer;F;4;2;2;8
+47;Ville Ritola;FIN;Athletics;1924–1928;Summer;M;5;3;0;8
+92;Otto Olsen;NOR;Shooting;1920–1924;Summer;M;4;3;1;8
+92;Georges Miez;CHE;Gymnastics;1924–1936;Summer;M;4;3;1;8
+99;Roland Matthes;NEM;Swimming;1968–1976;Summer;M;4;2;2;8
+50;Elisabeta Lipă;ROU;Rowing;1984–2004;Summer;F;5;2;1;8
+99;Jason Lezak;USA;Swimming;2000–2012;Summer;M;4;2;2;8
+99;Galina Kulakova;USSR;Cross-country skiing;1972–1980;Winter;F;4;2;2;8
+32;Reiner Klimke;NEM;Equestrian;1964–1988;Summer;M;6;0;2;8
+92;Ricco Groß;NEM;Biathlon;1992–2006;Winter;M;4;3;1;8
+28;Gert Fredriksson;SWE;Canoeing;1948–1960;Summer;M;6;1;1;8
+88;Dawn Fraser;AUS;Swimming;1956–1964;Summer;F;4;4;0;8
+99;Sven Fischer;NEM;Biathlon;1994–2006;Winter;M;4;2;2;8
+13;Ray Ewry;USA;Athletics;1900–1908;Summer;M;8;0;0;8
+88;Kornelia Ender;NEM;Swimming;1972–1976;Summer;F;4;4;0;8
+99;Inge de Bruijn;NLD;Swimming;2000–2004;Summer;F;4;2;2;8
+13;Usain Bolt;JAM;Athletics;2008–2016;Summer;M;8;0;0;8
+32;Ahn Hyun-Soo Viktor Ahn;KOR;Short track speed skating;2006–2014;Winter;M;6;0;2;8
+55;Nathan Adrian;USA;Swimming;2008–2016;Summer;M;5;1;2;8
+99;Kjetil André Aamodt;NOR;Alpine skiing;1992–2006;Winter;M;4;2;2;8
+57;Wu Minxia;CHN;Diving;2004–2016;Summer;F;5;1;1;7
+57;Hans Günter Winkler;NEM;Equestrian;1956–1976;Summer;M;5;1;1;7
+57;Dana Vollmer;USA;Swimming;2004–2016;Summer;F;5;1;1;7
+118;Libby Trickett;AUS;Swimming;2004–2012;Summer;F;4;1;2;7
+57;Clas Thunberg;FIN;Speed skating;1924–1928;Winter;M;5;1;1;7
+118;Lloyd Spooner;USA;Shooting;1920;Summer;M;4;1;2;7
+51;Aaron Peirsol;USA;Swimming;2000–2008;Summer;M;5;2;0;7
+96;Ivan Patzaichin;ROU;Canoeing;1968–1984;Summer;M;4;3;0;7
+106;Einar Liberg;NOR;Shooting;1908–1924;Summer;M;4;2;1;7
+57;Willis A. Lee;USA;Shooting;1920;Summer;M;5;1;1;7
+57;Larisa Lazutina;RUS;Cross-country skiing;1992–1998;Winter;F;5;1;1;7
+34;Pál Kovács;HUN;Fencing;1936–1960;Summer;M;6;0;1;7
+118;Kosuke Kitajima;JPN;Swimming;2004–2012;Summer;M;4;1;2;7
+29;Jason Kenny;GBR;Cycling;2008–2016;Summer;M;6;1;0;7
+57;Tom Jager;USA;Swimming;1984–1992;Summer;M;5;1;1;7
+29;Chris Hoy;GBR;Cycling;2000–2012;Summer;M;6;1;0;7
+51;Martin Fourcade;FRA;Biathlon;2014–2018;Winter;M;5;2;0;7
+51;Yukio Endo;JPN;Gymnastics;1960–1968;Summer;M;5;2;0;7
+57;Krisztina Egerszegi;HUN;Swimming;1988–1996;Summer;F;5;1;1;7
+118;Charles Daniels;USA;Swimming;1904–1908;Summer;M;4;1;2;7
+106;Ivar Ballangrud;NOR;Speed skating;1928–1936;Winter;M;4;2;1;7
+72;Zou Kai;CHN;Gymnastics;2008–2012;Summer;M;5;0;1;6
+72;Johnny Weissmuller;USA;Swimming, Water polo;1924–1928;Summer;M;5;0;1;6
+122;Wang Meng;CHN;Short track speed skating;2006–2010;Winter;F;4;1;1;6
+122;Katrin Wagner-Augustin;NEM;Canoeing;2000–2012;Summer;F;4;1;1;6
+122;Leontien van Moorsel;NLD;Cycling;2000–2004;Summer;F;4;1;1;6
+35;Amy Van Dyken;USA;Swimming;1996–2000;Summer;F;6;0;0;6
+122;Gunde Svan;SWE;Cross-country skiing;1984–1988;Winter;M;4;1;1;6
+35;Lidia Skoblikova;USSR;Speed skating;1960–1964;Winter;F;6;0;0;6
+122;Viktor Sidyak;USSR;Fencing;1968–1980;Summer;M;4;1;1;6
+65;Don Schollander;USA;Swimming;1964–1968;Summer;M;5;1;0;6
+122;Murray Rose;AUS;Swimming;1956–1960;Summer;M;4;1;1;6
+72;Steve Redgrave;GBR;Rowing;1984–2000;Summer;M;5;0;1;6
+35;Kristin Otto;NEM;Swimming;1988;Summer;F;6;0;0;6
+122;Elena Novikova-Belova;USSR;Fencing;1968–1980;Summer;F;4;1;1;6
+35;Nedo Nadi;ITA;Fencing;1912–1920;Summer;M;6;0;0;6
+65;Ole Lilloe-Olsen;NOR;Shooting;1920–1924;Summer;M;5;1;0;6
+65;Katie Ledecky;USA;Swimming;2012–2016;Summer;F;5;1;0;6
+72;Alfred Lane;USA;Shooting;1912–1920;Summer;M;5;0;1;6
+108;Kevin Kuske;NEM;Bobsleigh;2002–2018;Winter;M;4;2;0;6
+158;Győző Kulcsár;HUN;Fencing;1964–1976;Summer;M;4;0;2;6
+65;Danuta Kozák;HUN;Canoeing;2008–2016;Summer;F;5;1;0;6
+108;Janica Kostelić;HRV;Alpine skiing;2002–2006;Winter;F;4;2;0;6
+108;Olga Korbut;USSR;Gymnastics;1972–1976;Summer;F;4;2;0;6
+65;Nellie Kim;USSR;Gymnastics;1976–1980;Summer;F;5;1;0;6
+122;Kim Soo-Nyung;KOR;Archery;1988–2000;Summer;F;4;1;1;6
+35;Rudolf Kárpáti;HUN;Fencing;1948–1960;Summer;M;6;0;0;6
+108;Jin Jong-oh;KOR;Shooting;2004–2016;Summer;M;4;2;0;6
+122;Doina Ignat;ROU;Rowing;1992–2008;Summer;F;4;1;1;6
+65;Anton Heida;USA;Gymnastics;1904;Summer;M;5;1;0;6
+108;Guo Jingjing;CHN;Diving;2000–2008;Summer;F;4;2;0;6
+108;Matt Grevers;USA;Swimming;2008–2012;Summer;M;4;2;0;6
+108;Lucien Gaudin;FRA;Fencing;1920–1928;Summer;M;4;2;0;6
+72;Missy Franklin;USA;Swimming;2012–2016;Summer;F;5;0;1;6
+122;Darya Domracheva;BLR;Biathlon;2010–2018;Winter;F;4;1;1;6
+108;Giuseppe Delfino;ITA;Fencing;1952–1964;Summer;M;4;2;0;6
+72;Georgeta Damian;ROU;Rowing;2000–2008;Summer;F;5;0;1;6
+108;Christian d'Oriola;FRA;Fencing;1948–1956;Summer;M;4;2;0;6
+72;Bonnie Blair;USA;Speed skating;1988–1994;Winter;F;5;0;1;6
+65;Thomas Alsgaard;NOR;Cross-country skiing;1994–2002;Winter;M;5;1;0;6
+132;Nikolay Zimyatov;USSR;Cross-country skiing;1980–1984;Winter;M;4;1;0;5
+132;Emil Zátopek;CZR;Athletics;1948–1952;Summer;M;4;1;0;5
+159;Giorgio Zampori;ITA;Gymnastics;1912–1924;Summer;M;4;0;1;5
+132;Venus Williams;USA;Tennis;2000–2016;Summer;F;4;1;0;5
+132;Hayley Wickenheiser;CAN;Ice hockey;1998–2014;Winter;F;4;1;0;5
+132;Wang Nan;CHN;Table tennis;2000–2008;Summer;F;4;1;0;5
+132;Alexander Tikhonov;USSR;Biathlon;1968–1980;Winter;M;4;1;0;5
+132;Ecaterina Szabo;ROU;Gymnastics;1984;Summer;F;4;1;0;5
+159;Viorica SUSAnu;ROU;Rowing;2000–2008;Summer;F;4;0;1;5
+132;Mel Sheppard;USA;Athletics;1908–1912;Summer;M;4;1;0;5
+79;Svetlana Romashina;RUS;Synchronized swimming;2008–2016;Summer;F;5;0;0;5
+159;Sanya Richards-Ross;USA;Athletics;2004–2012;Summer;F;4;0;1;5
+159;Stanislav Pozdnyakov;RUS;Fencing;1992–2004;Summer;M;4;0;1;5
+132;Charles Pahud de Mortanges;NLD;Equestrian;1924–1936;Summer;M;4;1;0;5
+159;Jon Olsen;USA;Swimming;1992–1996;Summer;M;4;0;1;5
+132;Matti Nykänen;FIN;Ski jumping;1984–1988;Winter;M;4;1;0;5
+132;John Naber;USA;Swimming;1976;Summer;M;4;1;0;5
+132;Valentin Muratov;USSR;Gymnastics;1952–1956;Summer;M;4;1;0;5
+132;Greg Louganis;USA;Diving;1976–1988;Summer;M;4;1;0;5
+159;Li Xiaopeng;CHN;Gymnastics;2000–2008;Summer;M;4;0;1;5
+132;André Lange;NEM;Bobsleigh;2002–2010;Winter;M;4;1;0;5
+132;Johann Olav Koss;NOR;Speed skating;1992–1994;Winter;M;4;1;0;5
+132;Hannes Kolehmainen;FIN;Athletics;1912–1920;Summer;M;4;1;0;5
+132;Yana Klochkova;UKR;Swimming;2000–2004;Summer;F;4;1;0;5
+79;Natalia Ishchenko;RUS;Synchronized swimming;2008–2016;Summer;F;5;0;0;5
+159;Marcus Hurley;USA;Cycling;1904;Summer;M;4;0;1;5
+79;Eric Heiden;USA;Speed skating;1980;Winter;M;5;0;0;5
+132;Jayna Hefford;CAN;Ice hockey;1998–2014;Winter;F;4;1;0;5
+132;Yevgeny Grishin;USSR;Speed skating;1956–1964;Winter;M;4;1;0;5
+159;Natalie Geisenberger;NEM;Luge;2010–2018;Winter;F;4;0;1;5
+132;Fu Mingxia;CHN;Diving;1992–2000;Summer;F;4;1;0;5
+132;Ramón Fonst;CUB;Fencing;1900–1904;Summer;M;4;1;0;5
+79;Morris Fisher;USA;Shooting;1920–1924;Summer;M;5;0;0;5
+132;Ian Ferguson;NZL;Canoeing;1984–1988;Summer;M;4;1;0;5
+132;Janet Evans;USA;Swimming;1988–1992;Summer;F;4;1;0;5
+159;Teresa Edwards;USA;Basketball;1984–2000;Summer;F;4;0;1;5
+79;Anastasia Davydova;RUS;Synchronized swimming;2004–2012;Summer;F;5;0;0;5
+159;Chun Lee-Kyung;KOR;Short track speed skating;1994–1998;Winter;F;4;0;1;5
+79;Chen Ruolin;CHN;Diving;2008–2016;Summer;F;5;0;0;5
+159;Kathrin Boron;NEM;Rowing;1992–2008;Summer;F;4;0;1;5
+159;Simone Biles;USA;Gymnastics;2016;Summer;F;4;0;1;5
+159;Ludger Beerbaum;NEM;Equestrian;1988–2016;Summer;M;4;0;1;5
+132;Evelyn Ashford;USA;Athletics;1984–1992;Summer;F;4;1;0;5
+132;Vladimir Artemov;USSR;Gymnastics;1988;Summer;M;4;1;0;5
+132;Ben Ainslie;GBR;Sailing;1996–2012;Summer;M;4;1;0;5
+172;Zhang Yining;CHN;Table tennis;2004–2008;Summer;F;4;0;0;4
+172;Bärbel Wöckel;NEM;Athletics;1976–1980;Summer;F;4;0;0;4
+172;Serena Williams;USA;Tennis;2000–2012;Summer;F;4;0;0;4
+172;Tobias Wendl;NEM;Luge;2014–2018;Winter;M;4;0;0;4
+172;Thomas Wassberg;SWE;Cross-country skiing;1980–1988;Winter;M;4;0;0;4
+172;Lasse Virén;FIN;Athletics;1972–1976;Summer;M;4;0;0;4
+172;Nicole Uphoff;NEM;Equestrian;1988–1992;Summer;F;4;0;0;4
+172;Diana Taurasi;USA;Basketball;2004–2016;Summer;F;4;0;0;4
+172;Carl Schuhmann;NEM;Gymnastics, Wrestling;1896;Summer;M;4;0;0;4
+172;Vladimir Salnikov;USSR;Swimming;1980–1988;Summer;M;4;0;0;4
+172;Henri Saint Cyr;SWE;Equestrian;1952–1956;Summer;M;4;0;0;4
+172;Paulo Radmilovic;GBR;Water polo, Swimming;1908–1920;Summer;M;4;0;0;4
+172;Matthew Pinsent;GBR;Rowing;1992–2004;Summer;M;4;0;0;4
+172;Carlo Pavesi;ITA;Fencing;1952–1960;Summer;M;4;0;0;4
+172;Jesse Owens;USA;Athletics;1936;Summer;M;4;0;0;4
+172;Caroline Ouellette;CAN;Ice hockey;2002–2014;Winter;F;4;0;0;4
+172;Al Oerter;USA;Athletics;1956–1968;Summer;M;4;0;0;4
+172;Pat McCormick;USA;Diving;1952–1956;Summer;F;4;0;0;4
+172;Lisa Leslie;USA;Basketball;1996–2008;Summer;F;4;0;0;4
+172;Viktor Krovopuskov;USSR;Fencing;1976–1980;Summer;M;4;0;0;4
+172;Lenny Krayzelburg;USA;Swimming;2000–2004;Summer;M;4;0;0;4
+172;Alvin Kraenzlein;USA;Athletics;1900;Summer;M;4;0;0;4
+172;Robert Korzeniowski;POL;Athletics;1996–2004;Summer;M;4;0;0;4
+172;Laura Kenny;GBR;Cycling;2012–2016;Summer;F;4;0;0;4
+172;Michael Johnson;USA;Athletics;1992–2000;Summer;M;4;0;0;4
+172;Kaori Icho;JPN;Wrestling;2004–2016;Summer;F;4;0;0;4
+172;Jenő Fuchs;HUN;Fencing;1908–1912;Summer;M;4;0;0;4
+172;Mohamed Farah;GBR;Athletics;2012–2016;Summer;M;4;0;0;4
+172;Anastasia Ermakova;RUS;Synchronized swimming;2004–2008;Summer;F;4;0;0;4
+172;Paul Bert Elvstrøm;DNK;Sailing;1948–1960;Summer;M;4;0;0;4
+172;Harrison Dillard;USA;Athletics;1948–1952;Summer;M;4;0;0;4
+172;Deng Yaping;CHN;Table tennis;1992–1996;Summer;F;4;0;0;4
+172;Tamás Darnyi;HUN;Swimming;1988–1992;Summer;M;4;0;0;4
+172;Betty Cuthbert;AUS;Athletics;1956–1964;Summer;F;4;0;0;4
+172;Dario Cologna;CHE;Cross-country skiing;2010–2018;Winter;M;4;0;0;4
+172;Tamika Catchings;USA;Basketball;2004–2016;Summer;F;4;0;0;4
+172;Fanny Blankers-Koen;NLD;Athletics;1948;Summer;F;4;0;0;4
+172;Sue Bird;USA;Basketball;2004–2016;Summer;F;4;0;0;4
+172;Tobias Arlt;NEM;Luge;2014–2018;Winter;M;4;0;0;4
+172;Simon Ammann;CHE;Ski jumping;2002–2010;Winter;M;4;0;0;4

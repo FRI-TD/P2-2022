@@ -16,7 +16,7 @@ public class Drzave {
    * @return
    * @throws Exception 
    */
-  static HashMap<String, Drzava> preberiDrzave(String imeDatoteke) throws Exception {
+  public static HashMap<String, Drzava> preberiDrzave(String imeDatoteke) throws Exception {
     HashMap<String, Drzava> result = new HashMap<>();
     
     Scanner sc = new Scanner(new File(imeDatoteke));

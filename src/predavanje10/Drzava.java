@@ -15,7 +15,7 @@ public class Drzava {
     this.steviloPrebivalcev = steviloPrebivalcev;
   }
 
-  public String getKrtica() {
+  public String getKratica() {
     return krtica;
   }
 
